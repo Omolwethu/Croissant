@@ -1,0 +1,32 @@
+body {
+  background: #bfd8d5;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
+h2 {
+  color: blueviolet;
+}
+
+p {
+  font-size: 20px;
+}
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 15px;
+  color: blueviolet;
+  font-size: 18px;
+}
+
+.croissant-picture {
+  max-width: 800px;
+  border-radius: 15px;
+  margin: 25px auto;
+  display: block;
+}
